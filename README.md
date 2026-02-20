@@ -3,7 +3,9 @@
 An AI-powered Gmail client built with Next.js 16. Chat with an AI assistant to search, read, compose, and send emails — all through natural language. The AI controls the mail client UI in real-time while you watch.
 
 <!-- Replace with actual screenshot -->
-![AI Mail Client](docs/images/app-overview.png)
+<p align="center">
+  <img src="docs/images/app-overview.png" alt="AI Mail Client" width="700" />
+</p>
 
 ---
 
@@ -17,25 +19,25 @@ Chat with a Gemini-powered assistant that can:
 - **Filter & organize** — "Show me unread emails from this week"
 
 <!-- Replace with actual screenshot -->
-![AI Assistant Chat](docs/images/ai-chat.png)
+<img src="docs/images/ai-chat.png" alt="AI Assistant Chat" width="300" />
 
 ### Thread View
 Emails in the same conversation are grouped together. Click any email to see the full thread with all replies.
 
 <!-- Replace with actual screenshot -->
-![Thread View](docs/images/thread-view.png)
+<img src="docs/images/thread-view.png" alt="Thread View" width="600" />
 
 ### Smart Search
 Search is case-insensitive and falls back to Gmail's API when local results are insufficient. Date range queries like "last 10 days" are computed automatically by the AI.
 
 <!-- Replace with actual screenshot -->
-![Search & Filters](docs/images/search-filters.png)
+<img src="docs/images/search-filters.png" alt="Search & Filters" width="300" />
 
 ### Compose & Send with Confirmation
 The AI always shows a confirmation dialog before sending emails. You can review the draft, edit it, and approve or cancel.
 
 <!-- Replace with actual screenshot -->
-![Compose & Confirmation](docs/images/compose-confirm.png)
+<img src="docs/images/compose-confirm.png" alt="Compose & Confirmation" width="600" />
 
 ---
 
